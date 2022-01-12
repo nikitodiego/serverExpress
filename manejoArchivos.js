@@ -1,4 +1,4 @@
-const { randomBytes } = require('crypto');
+
 
 class Contenedor{
     constructor(nombre) {
